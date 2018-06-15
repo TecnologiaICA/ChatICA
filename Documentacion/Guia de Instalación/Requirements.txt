@@ -1,0 +1,11 @@
+Live helper chat requires these software components
+
+    
+PHP 5.5 >= version
+    
+Mysql 5.x / MariaDB 10.x or higher version
+    
+Apache2 or Nginx
+
+
+There are no special requirements at hardware level.
