@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+livehelperchat.com	TRUE	/	FALSE	1999999999	RegularVersion	1
+livehelperchat.com	TRUE	/	FALSE	1999999999	PHPSESSID	86p0dj5f5ue8g10p6ehc0kmpn5
+.google.com	TRUE	/	FALSE	1999999999	NID	130=lyHA5x2ka2K4FU8PMRy9mAI-TeOXPCKiK67nBnEyYlNmVxtN6x6JOlZGqW40JibJ3pDrHi3QfUOmue0AgMFBr63s74tCVXcVmatm22VpdBk23952r2U41PpsQNOKGuM8
+.github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	WWR1R2Y0V29BSnNUNWFndUt4eE1JclhsOFdFK2pNVGxiZ0lzVkJqSWsvU1VWTzBuNFQwbmsway9VUFZwNW1Eak4rZmx0VEhOTnJzQ1djU2JWUFpWVVdCcUFiaWxWcHJpTVN4ZThrUU1Pb3ZjNjBicVd5UkxDS0lvOXc3VEp2ci9CMHdyaUxTa0RPSkg4OHI3aDB1OXhvd0VDb2NreG5jQUFMRzQva0h6RU84L1JUbklqczVwUzM3bkI5Q1kwZzQ3bkMzalFZaUZqQmJVMEtKRDhmemxzdDZ3Z2svcHQzeVJiUFpkR1FtdnBoeWZldW1PWFl0UjAwYkpKeXgwTktXZFpOQzV2cEpLU2FFb2x2alN0SU5ZY1NqczN2aUFSTnpUbitnL3E2ak9UT289LS1PUzd6NTRzZEFsclRKL0VuUWVSc25BPT0%3D--0d2b2273fdb127a2385d86749850c3560fb08c22
+www.paypal.com	TRUE	/	FALSE	1999999999	AKDC	slc-b-origin-www-2.paypal.com
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1527258129~id=7fa88adedd050f5dc9fcfc8d1575b1a7
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT-2
+

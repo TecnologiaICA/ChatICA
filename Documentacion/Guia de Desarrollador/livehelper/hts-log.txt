@@ -1,0 +1,112 @@
+HTTrack3.48-24 launched on Fri, 25 May 2018 09:01:58 at https://livehelperchat.com/documentation-6c.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://livehelperchat.com/documentation-6c.html -O "/home/administrador/websites/livehelper" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:11:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/design/defaulttheme/images/favicon.ico
+09:11:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/cache/compiledtemplates/fe8f746aff37bf1aed0eff18829eb737.js
+09:11:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://apis.google.com/js/plusone.js
+09:11:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://pagead2.googlesyndication.com/pagead/show_ads.js
+09:11:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): platform.linkedin.com/in.js
+09:11:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://apis.google.com/js/platform.js
+09:11:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/cache/compiledtemplates/698fc0855511854d9ce8f1d2fe150ed9.js
+09:12:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+09:12:09	Warning: 	HTML file (19339 bytes) retransferred due to lack of cache: https://livehelperchat.com/
+09:12:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.paypal.com/en_US/i/scr/pixel.gif
+09:12:38	Warning: 	HTML file (15049 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/static/5
+09:12:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif
+09:13:01	Warning: 	HTML file (19403 bytes) retransferred due to lack of cache: https://livehelperchat.com/integration-with-facebook-messenger-464a.html
+09:13:14	Warning: 	HTML file (17324 bytes) retransferred due to lack of cache: https://livehelperchat.com/2.95-bot-improvements-503a.html
+09:14:00	Warning: 	HTML file (17574 bytes) retransferred due to lack of cache: https://livehelperchat.com/2.93v-department-statistic-500a.html
+09:14:35	Warning: 	HTML file (17215 bytes) retransferred due to lack of cache: https://livehelperchat.com/orange-theme-333a.html
+09:15:09	Warning: 	HTML file (17195 bytes) retransferred due to lack of cache: https://livehelperchat.com/pink-theme-329a.html
+09:15:34	Warning: 	HTML file (17245 bytes) retransferred due to lack of cache: https://livehelperchat.com/light-green-theme-328a.html
+09:15:59	Warning: 	HTML file (17218 bytes) retransferred due to lack of cache: https://livehelperchat.com/dark-red-theme-326a.html
+09:16:24	Warning: 	HTML file (17197 bytes) retransferred due to lack of cache: https://livehelperchat.com/green-theme-325a.html
+09:16:47	Warning: 	HTML file (17641 bytes) retransferred due to lack of cache: https://livehelperchat.com/live-helper-chat-easy-install-on-vpsie.com-411a.html
+09:16:52	Warning: 	HTML file (17905 bytes) retransferred due to lack of cache: https://livehelperchat.com/how-to-setup-online-hours-work-hours-and-ignore-operators-status-completely-316a.html
+09:17:27	Warning: 	HTML file (22366 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/217
+09:18:19	Warning: 	HTML file (18776 bytes) retransferred due to lack of cache: https://livehelperchat.com/old-upgrading-instructions-335a.html
+09:18:48	Warning: 	HTML file (17242 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/396
+09:19:25	Warning: 	HTML file (18337 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/501
+09:19:48	Warning: 	HTML file (18329 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/330
+09:20:14	Warning: 	HTML file (25029 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/388
+09:20:36	Warning: 	HTML file (19015 bytes) retransferred due to lack of cache: https://livehelperchat.com/obtaining-oauth-2.0-client-id-and-client-secret-for-xmpp-support-225a.html
+09:20:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/update/theme/orange-theme.json
+09:20:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/update/theme/pink-theme.json
+09:20:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/update/theme/green-theme.json
+09:20:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/update/theme/light-green.json
+09:20:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/update/theme/dark-red-theme.json
+09:21:02	Warning: 	HTML file (1184 bytes) retransferred due to lack of cache: https://livehelperchat.com/openfire-snapshot-at-digitalocean.com-362a.html
+09:21:05	Warning: 	HTML file (19086 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/302
+09:21:17	Warning: 	HTML file (18244 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/204
+09:21:53	Warning: 	HTML file (17782 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/73
+09:22:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://livehelperchat.com/update/theme/blue-theme.json
+09:22:18	Warning: 	HTML file (26122 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/138
+09:22:53	Warning: 	HTML file (17979 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/75
+09:23:12	Warning: 	HTML file (19178 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/346
+09:23:16	Warning: 	HTML file (19162 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/92
+09:23:39	Warning: 	HTML file (18017 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/150
+09:24:03	Warning: 	HTML file (20078 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/180
+09:24:05	Warning: 	HTML file (20084 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/245
+09:24:07	Warning: 	HTML file (18976 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/280
+09:24:07	Warning: 	HTML file (18027 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/290
+09:24:08	Warning: 	HTML file (17691 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/341
+09:24:10	Warning: 	HTML file (17655 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/356
+09:24:17	Warning: 	HTML file (25545 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/300
+09:24:18	Warning: 	HTML file (22315 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/306
+09:24:20	Error: 	"Not Found" (404) at link https://livehelperchat.com/design/defaulttheme/images/icons/application.png (from https://livehelperchat.com/article/view/24)
+09:24:20	Warning: 	HTML file (18448 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/291
+09:24:21	Warning: 	HTML file (18683 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/265
+09:24:23	Warning: 	HTML file (17505 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/288
+09:24:24	Warning: 	HTML file (18300 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/377
+09:24:25	Warning: 	HTML file (19544 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/464
+09:24:27	Warning: 	HTML file (20366 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/397
+09:24:28	Warning: 	HTML file (45106 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/423
+09:24:30	Warning: 	HTML file (17726 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/500
+09:24:31	Warning: 	HTML file (17420 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/333
+09:24:32	Warning: 	HTML file (17404 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/329
+09:24:34	Warning: 	HTML file (17440 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/328
+09:24:35	Warning: 	HTML file (17419 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/326
+09:24:37	Warning: 	HTML file (17404 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/325
+09:24:39	Warning: 	HTML file (17184 bytes) retransferred due to lack of cache: https://livehelperchat.com/blue-theme-324a.html
+09:24:40	Warning: 	HTML file (19664 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/448
+09:24:41	Warning: 	HTML file (17783 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/277
+09:24:42	Warning: 	HTML file (22077 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/282
+09:24:44	Warning: 	HTML file (19128 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/225
+09:24:45	Warning: 	HTML file (17814 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/495
+09:24:46	Warning: 	HTML file (19322 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/489
+09:24:48	Warning: 	HTML file (17456 bytes) retransferred due to lack of cache: https://livehelperchat.com/chrome-notification-api-added-127a.html
+09:24:49	Warning: 	HTML file (17294 bytes) retransferred due to lack of cache: https://livehelperchat.com/upcoming-faq-module-some-teaser-110a.html
+09:24:51	Warning: 	HTML file (17510 bytes) retransferred due to lack of cache: https://livehelperchat.com/final-design-of-page-widget-79a.html
+09:24:52	Warning: 	HTML file (17245 bytes) retransferred due to lack of cache: https://livehelperchat.com/sneak-preview-of-page-widget-78a.html
+09:24:55	Warning: 	HTML file (17393 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/324
+09:24:56	Warning: 	HTML file (20052 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/394
+09:24:57	Warning: 	HTML file (17159 bytes) retransferred due to lack of cache: https://livehelperchat.com/unread-messages-number-in-chat-tabs-161a.html
+09:24:58	Warning: 	HTML file (17344 bytes) retransferred due to lack of cache: https://livehelperchat.com/resume-chat-after-it-was-closed-160a.html
+09:25:00	Warning: 	HTML file (17169 bytes) retransferred due to lack of cache: https://livehelperchat.com/new-version-1.40.1v-top-menu-remade-151a.html
+09:25:01	Warning: 	HTML file (18787 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/89
+09:25:03	Warning: 	HTML file (17341 bytes) retransferred due to lack of cache: https://livehelperchat.com/usability-changes-365a.html
+09:25:04	Warning: 	HTML file (19369 bytes) retransferred due to lack of cache: https://livehelperchat.com/new-version-2.11v-few-nice-enhancements-355a.html
+09:25:05	Warning: 	HTML file (19856 bytes) retransferred due to lack of cache: https://livehelperchat.com/new-version-2.10v-pack-of-enhancements-353a.html
+09:25:07	Warning: 	HTML file (17670 bytes) retransferred due to lack of cache: https://livehelperchat.com/small-saturday-enhancements-edit-already-sended-message-339a.html
+09:25:08	Warning: 	HTML file (17529 bytes) retransferred due to lack of cache: https://livehelperchat.com/new-version-2.03v-notifications-about-new-visitors-327a.html
+09:25:10	Warning: 	HTML file (17233 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/135
+09:25:11	Warning: 	HTML file (17163 bytes) retransferred due to lack of cache: https://livehelperchat.com/we-have-icons-for-tabs-instead-of-names-now-173a.html
+09:25:13	Warning: 	HTML file (17200 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/141
+09:25:14	Warning: 	HTML file (18236 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/352
+09:25:16	Warning: 	HTML file (18300 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/323
+09:25:17	Warning: 	HTML file (17926 bytes) retransferred due to lack of cache: https://livehelperchat.com/new-version-1.68v-skype-button-and-few-other-maintenance-changes-227a.html
+09:25:18	Warning: 	HTML file (17628 bytes) retransferred due to lack of cache: https://livehelperchat.com/new-version-1.63v-avatars-chat-feedback-213a.html
+09:25:20	Warning: 	HTML file (17671 bytes) retransferred due to lack of cache: https://livehelperchat.com/helloween-update-211a.html
+09:25:21	Warning: 	HTML file (18456 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/189
+09:25:22	Warning: 	HTML file (17633 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/298
+09:25:24	Warning: 	HTML file (18083 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/297
+09:25:25	Warning: 	HTML file (18003 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/270
+09:25:27	Warning: 	HTML file (18381 bytes) retransferred due to lack of cache: https://livehelperchat.com/article/view/269
+
+HTTrack Website Copier/3.48-24 mirror complete in 23 minutes 30 seconds : 1292 links scanned, 1658 files written (105548017 bytes overall) [51391666 bytes received at 36447 bytes/sec], 18126725 bytes transferred using HTTP compression in 1008 files, ratio 32%, 4.0 requests per connection
+(1 errors, 100 warnings, 0 messages)
